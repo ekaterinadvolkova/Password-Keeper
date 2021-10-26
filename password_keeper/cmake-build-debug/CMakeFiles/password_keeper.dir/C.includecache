@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ekaterinavolkova/CLionProjects/password_keeper/main.c
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+unistd.h
+-
+conio.h
+-
+stdio.h
+-
+
